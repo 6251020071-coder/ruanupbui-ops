@@ -1,0 +1,17 @@
+{
+  "name": "Smart Kho",
+  "short_name": "Smart Kho",
+  "description": "Hệ thống quản lý kho tự động Premium",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fce4ec",
+  "theme_color": "#fce4ec",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2800/2800100.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
